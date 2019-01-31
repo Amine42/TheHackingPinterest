@@ -8365,3 +8365,245 @@ Migrating to CreatePins (20190130225124)
   ↳ db/seeds.rb:35
   [1m[35m (92.9ms)[0m  [1m[36mcommit transaction[0m
   ↳ db/seeds.rb:35
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Veola Wiza"], ["created_at", "2019-01-31 03:47:35.944641"], ["updated_at", "2019-01-31 03:47:35.944641"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (90.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Gail Bergstrom"], ["created_at", "2019-01-31 03:47:36.038629"], ["updated_at", "2019-01-31 03:47:36.038629"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (65.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Hallie Marquardt"], ["created_at", "2019-01-31 03:47:36.107438"], ["updated_at", "2019-01-31 03:47:36.107438"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (471.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Clarence Ernser"], ["created_at", "2019-01-31 03:47:36.582507"], ["updated_at", "2019-01-31 03:47:36.582507"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (78.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Marty Klocko"], ["created_at", "2019-01-31 03:47:36.663257"], ["updated_at", "2019-01-31 03:47:36.663257"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (91.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Belle Pollich DDS"], ["created_at", "2019-01-31 03:47:36.758388"], ["updated_at", "2019-01-31 03:47:36.758388"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (103.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Muriel Bartoletti PhD"], ["created_at", "2019-01-31 03:47:36.865531"], ["updated_at", "2019-01-31 03:47:36.865531"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (64.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Laurence Dibbert III"], ["created_at", "2019-01-31 03:47:36.933186"], ["updated_at", "2019-01-31 03:47:36.933186"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (87.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Cora Jaskolski"], ["created_at", "2019-01-31 03:47:37.025714"], ["updated_at", "2019-01-31 03:47:37.025714"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (84.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Leonard Goodwin"], ["created_at", "2019-01-31 03:47:37.116933"], ["updated_at", "2019-01-31 03:47:37.116933"]]
+  ↳ db/seeds.rb:6
+  [1m[35m (87.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:6
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.2ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 3], ["url_image", "http://monahan.org/landon"], ["created_at", "2019-01-31 03:47:37.222023"], ["updated_at", "2019-01-31 03:47:37.222023"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.3ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 8], ["url_image", "http://douglatokes.info/brendan.kihn"], ["created_at", "2019-01-31 03:47:37.300007"], ["updated_at", "2019-01-31 03:47:37.300007"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (99.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.2ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 8], ["url_image", "http://schmitt.org/major"], ["created_at", "2019-01-31 03:47:37.406200"], ["updated_at", "2019-01-31 03:47:37.406200"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (114.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.8ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 6], ["url_image", "http://gleasonharvey.co/orlando.fisher"], ["created_at", "2019-01-31 03:47:37.525075"], ["updated_at", "2019-01-31 03:47:37.525075"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (76.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.3ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 3], ["url_image", "http://kiehn.biz/antonetta.lemke"], ["created_at", "2019-01-31 03:47:37.607340"], ["updated_at", "2019-01-31 03:47:37.607340"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (92.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.6ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 4], ["url_image", "http://simonis.co/sharlene_bruen"], ["created_at", "2019-01-31 03:47:37.707843"], ["updated_at", "2019-01-31 03:47:37.707843"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (90.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.3ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 7], ["url_image", "http://treutel.com/bernadette.murazik"], ["created_at", "2019-01-31 03:47:37.806158"], ["updated_at", "2019-01-31 03:47:37.806158"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (72.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (2.4ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 9], ["url_image", "http://hills.biz/felisa"], ["created_at", "2019-01-31 03:47:37.883559"], ["updated_at", "2019-01-31 03:47:37.883559"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (74.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.3ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 9], ["url_image", "http://turner.com/leroy_fahey"], ["created_at", "2019-01-31 03:47:37.965383"], ["updated_at", "2019-01-31 03:47:37.965383"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (78.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ db/seeds.rb:12
+  [1m[36mPin Create (0.3ms)[0m  [1m[32mINSERT INTO "pins" ("user_id", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 3], ["url_image", "http://sporer.biz/rocco.jakubowski"], ["created_at", "2019-01-31 03:47:38.048621"], ["updated_at", "2019-01-31 03:47:38.048621"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (92.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.5ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 2], ["text", "Phoenix"], ["user_id", 4], ["created_at", "2019-01-31 03:47:38.157766"], ["updated_at", "2019-01-31 03:47:38.157766"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (92.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.3ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 3], ["text", "Metron"], ["user_id", 1], ["created_at", "2019-01-31 03:47:38.255773"], ["updated_at", "2019-01-31 03:47:38.255773"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (110.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.4ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 6], ["text", "Psylocke"], ["user_id", 8], ["created_at", "2019-01-31 03:47:38.372366"], ["updated_at", "2019-01-31 03:47:38.372366"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (93.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.3ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 6], ["text", "Fixer"], ["user_id", 8], ["created_at", "2019-01-31 03:47:38.472842"], ["updated_at", "2019-01-31 03:47:38.472842"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (93.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.4ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 1], ["text", "Longshot"], ["user_id", 9], ["created_at", "2019-01-31 03:47:38.572303"], ["updated_at", "2019-01-31 03:47:38.572303"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (105.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.4ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 4], ["text", "Absorbing"], ["user_id", 5], ["created_at", "2019-01-31 03:47:38.684164"], ["updated_at", "2019-01-31 03:47:38.684164"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (101.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.3ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 9], ["text", "Proto-Goblin"], ["user_id", 6], ["created_at", "2019-01-31 03:47:38.791722"], ["updated_at", "2019-01-31 03:47:38.791722"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (119.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.1ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (0.4ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 8], ["text", "Wasp"], ["user_id", 7], ["created_at", "2019-01-31 03:47:38.916715"], ["updated_at", "2019-01-31 03:47:38.916715"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (78.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.0ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (3.4ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 6], ["text", "Frenzy"], ["user_id", 6], ["created_at", "2019-01-31 03:47:39.001298"], ["updated_at", "2019-01-31 03:47:39.001298"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (91.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:18
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mPin Load (0.0ms)[0m  [1m[34mSELECT  "pins".* FROM "pins" WHERE "pins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ db/seeds.rb:18
+  [1m[36mComment Create (3.0ms)[0m  [1m[32mINSERT INTO "comments" ("pin_id", "text", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["pin_id", 4], ["text", "Century"], ["user_id", 4], ["created_at", "2019-01-31 03:47:39.101837"], ["updated_at", "2019-01-31 03:47:39.101837"]]
+  ↳ db/seeds.rb:18
+  [1m[35m (108.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:18
