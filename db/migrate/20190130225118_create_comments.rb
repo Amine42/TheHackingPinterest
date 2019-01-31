@@ -3,7 +3,7 @@ class CreateComments < ActiveRecord::Migration[5.2]
     create_table :comments do |t|
       t.belongs_to :pin, index: true
       t.string :text
-      t.belongs_to :users, index: true
+      t.belongs_to :user, index: true
       t.timestamps
     end
   end

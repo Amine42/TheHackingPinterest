@@ -11,13 +11,11 @@ require 'faker'
 10.times do
     user = User.create!(name: Faker::Name.name)
 end
-=begin
+
 10.times do
-    comment = Comment.create!(pin_id: Faker::Number.digit,text: Faker::Superhero.descriptor,user_id: Faker::Number.digit)
+    comment = Comment.create!(pin: Faker::Number.digit,text: Faker::Superhero.descriptor,user: Faker::Number.digit)
 end
 
 10.times do
-    pin = Pin.create!(user_id: Faker::Number.digit,url_image: Faker::Internet.url)
+    pin = Pin.create!(user: Faker::Number.digit,url_image: Faker::Internet.url)
 end
-
-=end
