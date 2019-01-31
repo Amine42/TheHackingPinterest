@@ -24,7 +24,7 @@ ActiveRecord::Schema.define(version: 2019_01_30_225124) do
 
   create_table "pins", force: :cascade do |t|
     t.integer "user_id"
-    t.string "url_image"
+    t.string "url_imagit checkout 3u38t0qn00p1sr1o8012r16kp2nsxcmul1w426w5ge"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["user_id"], name: "index_pins_on_user_id"
