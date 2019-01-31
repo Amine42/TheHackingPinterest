@@ -1,4 +1,4 @@
 class Pin < ApplicationRecord
-	has_many :comment
 	belongs_to :user
+	has_many :comments
 end

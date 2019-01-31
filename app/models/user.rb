@@ -1,4 +1,4 @@
 class User < ApplicationRecord
-	has_many :comment
-	has_many :pin
+	has_many :pins
+	has_many :comments
 end

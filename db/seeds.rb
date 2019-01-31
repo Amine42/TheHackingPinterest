@@ -13,9 +13,9 @@ require 'faker'
 end
 
 10.times do
-    comment = Comment.create!(pin: Faker::Number.digit,text: Faker::Superhero.descriptor,user: Faker::Number.digit)
+    comment = Comment.create!(pin: rand(1..9),text: Faker::Superhero.descriptor,user: rand(1..9))
 end
 
 10.times do
-    pin = Pin.create!(user: Faker::Number.digit,url_image: Faker::Internet.url)
+    pin = Pin.create!(user: rand(1..9),url_image: Faker::Internet.url)
 end

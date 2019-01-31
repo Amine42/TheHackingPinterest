@@ -582,3 +582,1891 @@ Migrating to CreatePins (20190130225124)
   ↳ db/seeds.rb:12
   [1m[35m (39.8ms)[0m  [1m[36mcommit transaction[0m
   ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Chong Sporer"], ["created_at", "2019-01-31 00:29:30.853288"], ["updated_at", "2019-01-31 00:29:30.853288"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Walter Bernier"], ["created_at", "2019-01-31 00:29:30.897493"], ["updated_at", "2019-01-31 00:29:30.897493"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tawanna Von"], ["created_at", "2019-01-31 00:29:30.944720"], ["updated_at", "2019-01-31 00:29:30.944720"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (62.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Gabriel Kuhlman"], ["created_at", "2019-01-31 00:29:31.011555"], ["updated_at", "2019-01-31 00:29:31.011555"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Sean Torp"], ["created_at", "2019-01-31 00:29:31.056758"], ["updated_at", "2019-01-31 00:29:31.056758"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Saul Kuvalis"], ["created_at", "2019-01-31 00:29:31.105538"], ["updated_at", "2019-01-31 00:29:31.105538"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kayce Little"], ["created_at", "2019-01-31 00:29:31.172042"], ["updated_at", "2019-01-31 00:29:31.172042"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Santina Sipes IV"], ["created_at", "2019-01-31 00:29:31.217607"], ["updated_at", "2019-01-31 00:29:31.217607"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (63.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Oneida Bernier"], ["created_at", "2019-01-31 00:29:31.286188"], ["updated_at", "2019-01-31 00:29:31.286188"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Meggan Hessel"], ["created_at", "2019-01-31 00:29:31.331303"], ["updated_at", "2019-01-31 00:29:31.331303"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (176.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Felipe Glover"], ["created_at", "2019-01-31 00:31:46.056688"], ["updated_at", "2019-01-31 00:31:46.056688"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Usha Cole"], ["created_at", "2019-01-31 00:31:46.104539"], ["updated_at", "2019-01-31 00:31:46.104539"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (68.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ed Rutherford"], ["created_at", "2019-01-31 00:31:46.180022"], ["updated_at", "2019-01-31 00:31:46.180022"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (60.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Deena Howe"], ["created_at", "2019-01-31 00:31:46.248853"], ["updated_at", "2019-01-31 00:31:46.248853"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Erich McCullough"], ["created_at", "2019-01-31 00:31:46.327394"], ["updated_at", "2019-01-31 00:31:46.327394"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Aliza Dickinson"], ["created_at", "2019-01-31 00:31:46.376852"], ["updated_at", "2019-01-31 00:31:46.376852"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jeffery Emmerich"], ["created_at", "2019-01-31 00:31:46.434636"], ["updated_at", "2019-01-31 00:31:46.434636"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (45.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Marleen Gorczany"], ["created_at", "2019-01-31 00:31:46.486125"], ["updated_at", "2019-01-31 00:31:46.486125"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mrs. Efrain Ledner"], ["created_at", "2019-01-31 00:31:46.535713"], ["updated_at", "2019-01-31 00:31:46.535713"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (67.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Arthur Gaylord"], ["created_at", "2019-01-31 00:31:46.613775"], ["updated_at", "2019-01-31 00:31:46.613775"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (73.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Gena Donnelly"], ["created_at", "2019-01-31 00:41:51.744779"], ["updated_at", "2019-01-31 00:41:51.744779"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alva Koss"], ["created_at", "2019-01-31 00:41:51.790012"], ["updated_at", "2019-01-31 00:41:51.790012"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (62.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Herb Kutch"], ["created_at", "2019-01-31 00:41:51.858123"], ["updated_at", "2019-01-31 00:41:51.858123"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (47.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Lacy Hickle"], ["created_at", "2019-01-31 00:41:51.916245"], ["updated_at", "2019-01-31 00:41:51.916245"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (38.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Susann Barton"], ["created_at", "2019-01-31 00:41:51.961566"], ["updated_at", "2019-01-31 00:41:51.961566"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jose Nader"], ["created_at", "2019-01-31 00:41:52.046801"], ["updated_at", "2019-01-31 00:41:52.046801"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Claud Green"], ["created_at", "2019-01-31 00:41:52.101657"], ["updated_at", "2019-01-31 00:41:52.101657"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (68.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Karoline Cummings"], ["created_at", "2019-01-31 00:41:52.183018"], ["updated_at", "2019-01-31 00:41:52.183018"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (80.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lane Murphy"], ["created_at", "2019-01-31 00:41:52.270344"], ["updated_at", "2019-01-31 00:41:52.270344"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (195.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Sook Mills III"], ["created_at", "2019-01-31 00:41:52.471952"], ["updated_at", "2019-01-31 00:41:52.471952"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (68.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Andera Upton"], ["created_at", "2019-01-31 00:44:18.379576"], ["updated_at", "2019-01-31 00:44:18.379576"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (158.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Diego McKenzie"], ["created_at", "2019-01-31 00:44:18.541439"], ["updated_at", "2019-01-31 00:44:18.541439"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Yu Nolan"], ["created_at", "2019-01-31 00:44:18.586910"], ["updated_at", "2019-01-31 00:44:18.586910"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lee Cremin Jr."], ["created_at", "2019-01-31 00:44:18.660135"], ["updated_at", "2019-01-31 00:44:18.660135"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kenneth Stamm MD"], ["created_at", "2019-01-31 00:44:18.711714"], ["updated_at", "2019-01-31 00:44:18.711714"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Veola Weimann DDS"], ["created_at", "2019-01-31 00:44:18.756539"], ["updated_at", "2019-01-31 00:44:18.756539"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (62.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Carlo Prohaska"], ["created_at", "2019-01-31 00:44:18.829577"], ["updated_at", "2019-01-31 00:44:18.829577"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Tyron King"], ["created_at", "2019-01-31 00:44:18.885785"], ["updated_at", "2019-01-31 00:44:18.885785"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Arica Batz"], ["created_at", "2019-01-31 00:44:18.955530"], ["updated_at", "2019-01-31 00:44:18.955530"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Cristobal Kuhn"], ["created_at", "2019-01-31 00:44:19.033585"], ["updated_at", "2019-01-31 00:44:19.033585"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (47.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Bernarda Little"], ["created_at", "2019-01-31 00:44:48.684511"], ["updated_at", "2019-01-31 00:44:48.684511"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tama Lemke"], ["created_at", "2019-01-31 00:44:48.729511"], ["updated_at", "2019-01-31 00:44:48.729511"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (65.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lane Fadel"], ["created_at", "2019-01-31 00:44:48.799987"], ["updated_at", "2019-01-31 00:44:48.799987"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (50.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Errol Bogisich"], ["created_at", "2019-01-31 00:44:48.855235"], ["updated_at", "2019-01-31 00:44:48.855235"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Bernard Bednar"], ["created_at", "2019-01-31 00:44:48.904152"], ["updated_at", "2019-01-31 00:44:48.904152"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Stephane Wehner PhD"], ["created_at", "2019-01-31 00:44:48.956120"], ["updated_at", "2019-01-31 00:44:48.956120"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Brendon Volkman I"], ["created_at", "2019-01-31 00:44:49.004107"], ["updated_at", "2019-01-31 00:44:49.004107"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Abel Abernathy"], ["created_at", "2019-01-31 00:44:49.058486"], ["updated_at", "2019-01-31 00:44:49.058486"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Hayden Wyman"], ["created_at", "2019-01-31 00:44:49.103707"], ["updated_at", "2019-01-31 00:44:49.103707"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Erwin Terry"], ["created_at", "2019-01-31 00:44:49.149684"], ["updated_at", "2019-01-31 00:44:49.149684"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mrs. Jeremy Block"], ["created_at", "2019-01-31 00:46:15.393837"], ["updated_at", "2019-01-31 00:46:15.393837"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Isreal Koepp"], ["created_at", "2019-01-31 00:46:15.438601"], ["updated_at", "2019-01-31 00:46:15.438601"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Syble McGlynn"], ["created_at", "2019-01-31 00:46:15.491372"], ["updated_at", "2019-01-31 00:46:15.491372"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (68.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Queen Mann"], ["created_at", "2019-01-31 00:46:15.571389"], ["updated_at", "2019-01-31 00:46:15.571389"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (65.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Gail Torphy II"], ["created_at", "2019-01-31 00:46:15.647819"], ["updated_at", "2019-01-31 00:46:15.647819"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dorian Shanahan"], ["created_at", "2019-01-31 00:46:15.728389"], ["updated_at", "2019-01-31 00:46:15.728389"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Stevie Rice"], ["created_at", "2019-01-31 00:46:15.805001"], ["updated_at", "2019-01-31 00:46:15.805001"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (73.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dana Stiedemann Sr."], ["created_at", "2019-01-31 00:46:15.884400"], ["updated_at", "2019-01-31 00:46:15.884400"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Laree Sanford"], ["created_at", "2019-01-31 00:46:15.965072"], ["updated_at", "2019-01-31 00:46:15.965072"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Norbert Mills"], ["created_at", "2019-01-31 00:46:16.021042"], ["updated_at", "2019-01-31 00:46:16.021042"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (74.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Cedrick Effertz"], ["created_at", "2019-01-31 00:46:41.252065"], ["updated_at", "2019-01-31 00:46:41.252065"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Candra Schmeler"], ["created_at", "2019-01-31 00:46:41.296722"], ["updated_at", "2019-01-31 00:46:41.296722"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Celia Jones"], ["created_at", "2019-01-31 00:46:41.349151"], ["updated_at", "2019-01-31 00:46:41.349151"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (45.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Young Christiansen"], ["created_at", "2019-01-31 00:46:41.398581"], ["updated_at", "2019-01-31 00:46:41.398581"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (67.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ernie Daniel"], ["created_at", "2019-01-31 00:46:41.472737"], ["updated_at", "2019-01-31 00:46:41.472737"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (47.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kenneth Klein"], ["created_at", "2019-01-31 00:46:41.531739"], ["updated_at", "2019-01-31 00:46:41.531739"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jordon Mohr"], ["created_at", "2019-01-31 00:46:41.584485"], ["updated_at", "2019-01-31 00:46:41.584485"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Calvin Kerluke"], ["created_at", "2019-01-31 00:46:41.653040"], ["updated_at", "2019-01-31 00:46:41.653040"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dian Auer"], ["created_at", "2019-01-31 00:46:41.698487"], ["updated_at", "2019-01-31 00:46:41.698487"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Gonzalo Wiegand"], ["created_at", "2019-01-31 00:46:41.775821"], ["updated_at", "2019-01-31 00:46:41.775821"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Terry Wunsch Jr."], ["created_at", "2019-01-31 00:47:57.317895"], ["updated_at", "2019-01-31 00:47:57.317895"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Classie Mayer"], ["created_at", "2019-01-31 00:47:57.363677"], ["updated_at", "2019-01-31 00:47:57.363677"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rosalba Schamberger"], ["created_at", "2019-01-31 00:47:57.411361"], ["updated_at", "2019-01-31 00:47:57.411361"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Ariel Murray"], ["created_at", "2019-01-31 00:47:57.479112"], ["updated_at", "2019-01-31 00:47:57.479112"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ira Welch"], ["created_at", "2019-01-31 00:47:57.533123"], ["updated_at", "2019-01-31 00:47:57.533123"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.8ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Harriett Bauch"], ["created_at", "2019-01-31 00:47:57.592444"], ["updated_at", "2019-01-31 00:47:57.592444"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (38.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jacob Beahan"], ["created_at", "2019-01-31 00:47:57.636378"], ["updated_at", "2019-01-31 00:47:57.636378"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (1.9ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Stewart Casper"], ["created_at", "2019-01-31 00:47:57.685988"], ["updated_at", "2019-01-31 00:47:57.685988"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lane Durgan"], ["created_at", "2019-01-31 00:47:57.741700"], ["updated_at", "2019-01-31 00:47:57.741700"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (73.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "James Zulauf"], ["created_at", "2019-01-31 00:47:57.823760"], ["updated_at", "2019-01-31 00:47:57.823760"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jewel Effertz DDS"], ["created_at", "2019-01-31 00:48:16.895096"], ["updated_at", "2019-01-31 00:48:16.895096"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (72.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Heidy Bailey Sr."], ["created_at", "2019-01-31 00:48:16.972483"], ["updated_at", "2019-01-31 00:48:16.972483"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (167.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tamra Dickinson"], ["created_at", "2019-01-31 00:48:17.148975"], ["updated_at", "2019-01-31 00:48:17.148975"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Van Marks"], ["created_at", "2019-01-31 00:48:17.226404"], ["updated_at", "2019-01-31 00:48:17.226404"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (66.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Faustino Gutkowski"], ["created_at", "2019-01-31 00:48:17.298448"], ["updated_at", "2019-01-31 00:48:17.298448"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Eddy Wyman IV"], ["created_at", "2019-01-31 00:48:17.351596"], ["updated_at", "2019-01-31 00:48:17.351596"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lesley Kuhic II"], ["created_at", "2019-01-31 00:48:17.421633"], ["updated_at", "2019-01-31 00:48:17.421633"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Shawn O'Hara"], ["created_at", "2019-01-31 00:48:17.499887"], ["updated_at", "2019-01-31 00:48:17.499887"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Donald Ziemann"], ["created_at", "2019-01-31 00:48:17.580229"], ["updated_at", "2019-01-31 00:48:17.580229"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (66.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (4.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Cheryll Feeney"], ["created_at", "2019-01-31 00:48:17.661462"], ["updated_at", "2019-01-31 00:48:17.661462"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Justin Hansen"], ["created_at", "2019-01-31 00:48:26.513757"], ["updated_at", "2019-01-31 00:48:26.513757"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Jamey Kiehn"], ["created_at", "2019-01-31 00:48:26.561403"], ["updated_at", "2019-01-31 00:48:26.561403"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Joey Mohr"], ["created_at", "2019-01-31 00:48:26.608459"], ["updated_at", "2019-01-31 00:48:26.608459"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (37.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dominga Funk PhD"], ["created_at", "2019-01-31 00:48:26.650355"], ["updated_at", "2019-01-31 00:48:26.650355"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Blaine Ullrich"], ["created_at", "2019-01-31 00:48:26.698690"], ["updated_at", "2019-01-31 00:48:26.698690"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Irmgard Green III"], ["created_at", "2019-01-31 00:48:26.765420"], ["updated_at", "2019-01-31 00:48:26.765420"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Zachery Collier"], ["created_at", "2019-01-31 00:48:26.810635"], ["updated_at", "2019-01-31 00:48:26.810635"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (64.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Thad Quigley"], ["created_at", "2019-01-31 00:48:26.881382"], ["updated_at", "2019-01-31 00:48:26.881382"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (60.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dionne Gaylord DVM"], ["created_at", "2019-01-31 00:48:26.952082"], ["updated_at", "2019-01-31 00:48:26.952082"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (73.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Reuben Schaefer"], ["created_at", "2019-01-31 00:48:27.039301"], ["updated_at", "2019-01-31 00:48:27.039301"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Lloyd Von"], ["created_at", "2019-01-31 00:49:04.684763"], ["updated_at", "2019-01-31 00:49:04.684763"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Valeri Swift"], ["created_at", "2019-01-31 00:49:04.735682"], ["updated_at", "2019-01-31 00:49:04.735682"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Buck Kerluke I"], ["created_at", "2019-01-31 00:49:04.781195"], ["updated_at", "2019-01-31 00:49:04.781195"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (65.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Erwin Franecki"], ["created_at", "2019-01-31 00:49:04.852616"], ["updated_at", "2019-01-31 00:49:04.852616"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Garry White"], ["created_at", "2019-01-31 00:49:04.930864"], ["updated_at", "2019-01-31 00:49:04.930864"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (74.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Yasmin Feest"], ["created_at", "2019-01-31 00:49:05.019050"], ["updated_at", "2019-01-31 00:49:05.019050"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Bethann Kiehn"], ["created_at", "2019-01-31 00:49:05.068531"], ["updated_at", "2019-01-31 00:49:05.068531"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Steven Armstrong"], ["created_at", "2019-01-31 00:49:05.125483"], ["updated_at", "2019-01-31 00:49:05.125483"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (65.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Charlotte Bosco"], ["created_at", "2019-01-31 00:49:05.202970"], ["updated_at", "2019-01-31 00:49:05.202970"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.5ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Forest Paucek"], ["created_at", "2019-01-31 00:49:05.285012"], ["updated_at", "2019-01-31 00:49:05.285012"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (65.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jeramy Lebsack"], ["created_at", "2019-01-31 00:51:55.674663"], ["updated_at", "2019-01-31 00:51:55.674663"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Stacy Funk"], ["created_at", "2019-01-31 00:51:55.718241"], ["updated_at", "2019-01-31 00:51:55.718241"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (63.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tianna Hayes"], ["created_at", "2019-01-31 00:51:55.788096"], ["updated_at", "2019-01-31 00:51:55.788096"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (38.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Javier Witting"], ["created_at", "2019-01-31 00:51:55.833326"], ["updated_at", "2019-01-31 00:51:55.833326"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dustin Runte DVM"], ["created_at", "2019-01-31 00:51:55.911189"], ["updated_at", "2019-01-31 00:51:55.911189"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (66.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Elfriede Carter"], ["created_at", "2019-01-31 00:51:55.982458"], ["updated_at", "2019-01-31 00:51:55.982458"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Arlen Schuster"], ["created_at", "2019-01-31 00:51:56.061840"], ["updated_at", "2019-01-31 00:51:56.061840"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jaime Mohr"], ["created_at", "2019-01-31 00:51:56.115456"], ["updated_at", "2019-01-31 00:51:56.115456"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (43.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Wade Torphy"], ["created_at", "2019-01-31 00:51:56.181209"], ["updated_at", "2019-01-31 00:51:56.181209"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (44.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Nikole Monahan"], ["created_at", "2019-01-31 00:51:56.233282"], ["updated_at", "2019-01-31 00:51:56.233282"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (45.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Luz Cassin"], ["created_at", "2019-01-31 00:53:28.222991"], ["updated_at", "2019-01-31 00:53:28.222991"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alesia Larkin"], ["created_at", "2019-01-31 00:53:28.266968"], ["updated_at", "2019-01-31 00:53:28.266968"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Victor Ondricka"], ["created_at", "2019-01-31 00:53:28.335399"], ["updated_at", "2019-01-31 00:53:28.335399"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (40.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Josie Beer"], ["created_at", "2019-01-31 00:53:28.381234"], ["updated_at", "2019-01-31 00:53:28.381234"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (61.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mckinley Nader"], ["created_at", "2019-01-31 00:53:28.447557"], ["updated_at", "2019-01-31 00:53:28.447557"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jay Parisian Jr."], ["created_at", "2019-01-31 00:53:28.496300"], ["updated_at", "2019-01-31 00:53:28.496300"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (47.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rupert Ankunding"], ["created_at", "2019-01-31 00:53:28.550739"], ["updated_at", "2019-01-31 00:53:28.550739"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (74.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Arron Haley"], ["created_at", "2019-01-31 00:53:28.631417"], ["updated_at", "2019-01-31 00:53:28.631417"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Garrett Abbott"], ["created_at", "2019-01-31 00:53:28.709127"], ["updated_at", "2019-01-31 00:53:28.709127"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (60.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alexander Rice"], ["created_at", "2019-01-31 00:53:28.778224"], ["updated_at", "2019-01-31 00:53:28.778224"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Nicolas Hills"], ["created_at", "2019-01-31 00:54:46.175214"], ["updated_at", "2019-01-31 00:54:46.175214"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (42.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Niki Lehner III"], ["created_at", "2019-01-31 00:54:46.222107"], ["updated_at", "2019-01-31 00:54:46.222107"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (62.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Noella Collier"], ["created_at", "2019-01-31 00:54:46.291808"], ["updated_at", "2019-01-31 00:54:46.291808"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (62.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Danny Bosco"], ["created_at", "2019-01-31 00:54:46.360119"], ["updated_at", "2019-01-31 00:54:46.360119"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Silvana Herzog"], ["created_at", "2019-01-31 00:54:46.438088"], ["updated_at", "2019-01-31 00:54:46.438088"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (49.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Wally Ondricka"], ["created_at", "2019-01-31 00:54:46.507141"], ["updated_at", "2019-01-31 00:54:46.507141"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (50.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Vertie Kris"], ["created_at", "2019-01-31 00:54:46.565007"], ["updated_at", "2019-01-31 00:54:46.565007"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (45.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Marcus Grady"], ["created_at", "2019-01-31 00:54:46.621531"], ["updated_at", "2019-01-31 00:54:46.621531"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Argentina Cronin"], ["created_at", "2019-01-31 00:54:46.699264"], ["updated_at", "2019-01-31 00:54:46.699264"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Willa Gleichner III"], ["created_at", "2019-01-31 00:54:46.755147"], ["updated_at", "2019-01-31 00:54:46.755147"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (48.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Conchita Morissette"], ["created_at", "2019-01-31 00:58:15.036404"], ["updated_at", "2019-01-31 00:58:15.036404"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Elizebeth Schimmel"], ["created_at", "2019-01-31 00:58:15.112121"], ["updated_at", "2019-01-31 00:58:15.112121"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (59.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Roberto Buckridge"], ["created_at", "2019-01-31 00:58:15.177738"], ["updated_at", "2019-01-31 00:58:15.177738"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jere Hickle"], ["created_at", "2019-01-31 00:58:15.256894"], ["updated_at", "2019-01-31 00:58:15.256894"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (41.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Yolando Lowe II"], ["created_at", "2019-01-31 00:58:15.303988"], ["updated_at", "2019-01-31 00:58:15.303988"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (39.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rima Hills"], ["created_at", "2019-01-31 00:58:15.353186"], ["updated_at", "2019-01-31 00:58:15.353186"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (46.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Chester Beer"], ["created_at", "2019-01-31 00:58:15.409069"], ["updated_at", "2019-01-31 00:58:15.409069"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (70.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Willene Stiedemann"], ["created_at", "2019-01-31 00:58:15.488399"], ["updated_at", "2019-01-31 00:58:15.488399"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (47.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Augustus Lind DVM"], ["created_at", "2019-01-31 00:58:15.544193"], ["updated_at", "2019-01-31 00:58:15.544193"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (69.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rosaria Graham"], ["created_at", "2019-01-31 00:58:15.623861"], ["updated_at", "2019-01-31 00:58:15.623861"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (71.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (98.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Lorenzo Boyle"], ["created_at", "2019-01-31 01:39:26.338025"], ["updated_at", "2019-01-31 01:39:26.338025"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (167.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mohamed Tillman"], ["created_at", "2019-01-31 01:39:26.607584"], ["updated_at", "2019-01-31 01:39:26.607584"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (277.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Wilson Spinka"], ["created_at", "2019-01-31 01:39:26.888810"], ["updated_at", "2019-01-31 01:39:26.888810"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (83.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Elizabet West"], ["created_at", "2019-01-31 01:39:26.979339"], ["updated_at", "2019-01-31 01:39:26.979339"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (157.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Krista Prohaska"], ["created_at", "2019-01-31 01:39:27.143913"], ["updated_at", "2019-01-31 01:39:27.143913"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (88.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jae Monahan"], ["created_at", "2019-01-31 01:39:27.238148"], ["updated_at", "2019-01-31 01:39:27.238148"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (218.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alishia Nader"], ["created_at", "2019-01-31 01:39:27.470079"], ["updated_at", "2019-01-31 01:39:27.470079"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (89.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jesica Kiehn"], ["created_at", "2019-01-31 01:39:27.568325"], ["updated_at", "2019-01-31 01:39:27.568325"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (208.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Elanor Volkman MD"], ["created_at", "2019-01-31 01:39:27.785010"], ["updated_at", "2019-01-31 01:39:27.785010"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (197.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Neville Greenholt"], ["created_at", "2019-01-31 01:39:27.990584"], ["updated_at", "2019-01-31 01:39:27.990584"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (227.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Halley Ruecker"], ["created_at", "2019-01-31 01:40:47.418316"], ["updated_at", "2019-01-31 01:40:47.418316"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (180.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lesha Altenwerth"], ["created_at", "2019-01-31 01:40:47.606237"], ["updated_at", "2019-01-31 01:40:47.606237"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (89.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Laverne Hettinger"], ["created_at", "2019-01-31 01:40:47.701730"], ["updated_at", "2019-01-31 01:40:47.701730"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (214.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alyse Stanton"], ["created_at", "2019-01-31 01:40:47.935775"], ["updated_at", "2019-01-31 01:40:47.935775"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (143.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Stepanie Breitenberg"], ["created_at", "2019-01-31 01:40:48.097709"], ["updated_at", "2019-01-31 01:40:48.097709"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (160.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (5.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Myron Paucek"], ["created_at", "2019-01-31 01:40:48.265546"], ["updated_at", "2019-01-31 01:40:48.265546"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (153.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rusty Schuster"], ["created_at", "2019-01-31 01:40:48.431047"], ["updated_at", "2019-01-31 01:40:48.431047"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (157.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Adam Quigley Sr."], ["created_at", "2019-01-31 01:40:48.601709"], ["updated_at", "2019-01-31 01:40:48.601709"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (161.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (4.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Loren Cronin DVM"], ["created_at", "2019-01-31 01:40:48.771681"], ["updated_at", "2019-01-31 01:40:48.771681"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (134.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Pansy VonRueden"], ["created_at", "2019-01-31 01:40:48.924214"], ["updated_at", "2019-01-31 01:40:48.924214"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (142.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alfredo Cartwright"], ["created_at", "2019-01-31 01:42:08.868996"], ["updated_at", "2019-01-31 01:42:08.868996"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (531.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ernest Daugherty"], ["created_at", "2019-01-31 01:42:09.403313"], ["updated_at", "2019-01-31 01:42:09.403313"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (420.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Evan Schulist"], ["created_at", "2019-01-31 01:42:09.827815"], ["updated_at", "2019-01-31 01:42:09.827815"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (279.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mrs. Stefany Auer"], ["created_at", "2019-01-31 01:42:10.111564"], ["updated_at", "2019-01-31 01:42:10.111564"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (402.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Fernando Crona"], ["created_at", "2019-01-31 01:42:10.522265"], ["updated_at", "2019-01-31 01:42:10.522265"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (336.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Edward Pollich"], ["created_at", "2019-01-31 01:42:10.864625"], ["updated_at", "2019-01-31 01:42:10.864625"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (279.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Roman Lynch"], ["created_at", "2019-01-31 01:42:11.147622"], ["updated_at", "2019-01-31 01:42:11.147622"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (376.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Emmett Stiedemann Sr."], ["created_at", "2019-01-31 01:42:11.527384"], ["updated_at", "2019-01-31 01:42:11.527384"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (475.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Terina Cummerata"], ["created_at", "2019-01-31 01:42:12.005380"], ["updated_at", "2019-01-31 01:42:12.005380"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (290.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alphonso Carter"], ["created_at", "2019-01-31 01:42:12.298697"], ["updated_at", "2019-01-31 01:42:12.298697"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (371.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lawrence Goodwin"], ["created_at", "2019-01-31 01:42:40.884777"], ["updated_at", "2019-01-31 01:42:40.884777"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (532.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (9.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Monika Monahan"], ["created_at", "2019-01-31 01:42:41.424909"], ["updated_at", "2019-01-31 01:42:41.424909"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (422.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jennine Rutherford"], ["created_at", "2019-01-31 01:42:41.864868"], ["updated_at", "2019-01-31 01:42:41.864868"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (315.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Herbert Dooley"], ["created_at", "2019-01-31 01:42:42.190398"], ["updated_at", "2019-01-31 01:42:42.190398"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (336.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Edgar Gerlach"], ["created_at", "2019-01-31 01:42:42.535045"], ["updated_at", "2019-01-31 01:42:42.535045"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (290.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Leigh Graham"], ["created_at", "2019-01-31 01:42:42.832178"], ["updated_at", "2019-01-31 01:42:42.832178"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (291.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (3.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rolf Marvin"], ["created_at", "2019-01-31 01:42:43.129652"], ["updated_at", "2019-01-31 01:42:43.129652"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (377.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Marita Gislason"], ["created_at", "2019-01-31 01:42:43.518062"], ["updated_at", "2019-01-31 01:42:43.518062"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (208.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Alexander Prosacco"], ["created_at", "2019-01-31 01:42:43.734135"], ["updated_at", "2019-01-31 01:42:43.734135"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (434.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Lacy Lynch"], ["created_at", "2019-01-31 01:42:44.177809"], ["updated_at", "2019-01-31 01:42:44.177809"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (349.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Antonio Hickle"], ["created_at", "2019-01-31 01:43:03.597152"], ["updated_at", "2019-01-31 01:43:03.597152"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (278.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dallas Rippin DDS"], ["created_at", "2019-01-31 01:43:03.880488"], ["updated_at", "2019-01-31 01:43:03.880488"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (329.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Wenona Bartoletti"], ["created_at", "2019-01-31 01:43:04.220480"], ["updated_at", "2019-01-31 01:43:04.220480"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (321.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Theo Gottlieb"], ["created_at", "2019-01-31 01:43:04.546499"], ["updated_at", "2019-01-31 01:43:04.546499"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (291.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Douglas Schamberger"], ["created_at", "2019-01-31 01:43:04.841823"], ["updated_at", "2019-01-31 01:43:04.841823"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (372.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Leonel Huel"], ["created_at", "2019-01-31 01:43:05.226615"], ["updated_at", "2019-01-31 01:43:05.226615"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (353.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jenise Reichel V"], ["created_at", "2019-01-31 01:43:05.586873"], ["updated_at", "2019-01-31 01:43:05.586873"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (286.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Odis Mayert IV"], ["created_at", "2019-01-31 01:43:05.881585"], ["updated_at", "2019-01-31 01:43:05.881585"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (265.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lesa Senger"], ["created_at", "2019-01-31 01:43:06.155481"], ["updated_at", "2019-01-31 01:43:06.155481"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (474.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (10.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Tameika Schoen"], ["created_at", "2019-01-31 01:43:06.635622"], ["updated_at", "2019-01-31 01:43:06.635622"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (366.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Anh Schoen"], ["created_at", "2019-01-31 01:43:56.545038"], ["updated_at", "2019-01-31 01:43:56.545038"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (268.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Chanell Kohler"], ["created_at", "2019-01-31 01:43:56.823699"], ["updated_at", "2019-01-31 01:43:56.823699"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (254.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lelah Reinger Jr."], ["created_at", "2019-01-31 01:43:57.083121"], ["updated_at", "2019-01-31 01:43:57.083121"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (347.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (3.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jose Streich"], ["created_at", "2019-01-31 01:43:57.438146"], ["updated_at", "2019-01-31 01:43:57.438146"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (409.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Danae Simonis"], ["created_at", "2019-01-31 01:43:57.858677"], ["updated_at", "2019-01-31 01:43:57.858677"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (284.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Adrian Rolfson"], ["created_at", "2019-01-31 01:43:58.154307"], ["updated_at", "2019-01-31 01:43:58.154307"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (325.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Loura Turcotte"], ["created_at", "2019-01-31 01:43:58.496401"], ["updated_at", "2019-01-31 01:43:58.496401"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (274.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Elane Nader"], ["created_at", "2019-01-31 01:43:58.783202"], ["updated_at", "2019-01-31 01:43:58.783202"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (277.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Esperanza Fisher"], ["created_at", "2019-01-31 01:43:59.070070"], ["updated_at", "2019-01-31 01:43:59.070070"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (317.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ana VonRueden I"], ["created_at", "2019-01-31 01:43:59.394861"], ["updated_at", "2019-01-31 01:43:59.394861"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (359.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Timmy Beer"], ["created_at", "2019-01-31 01:44:44.009128"], ["updated_at", "2019-01-31 01:44:44.009128"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (365.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kevin Becker"], ["created_at", "2019-01-31 01:44:44.379225"], ["updated_at", "2019-01-31 01:44:44.379225"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (290.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Jesse Hartmann"], ["created_at", "2019-01-31 01:44:44.672304"], ["updated_at", "2019-01-31 01:44:44.672304"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (276.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (3.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Giuseppe Runte Sr."], ["created_at", "2019-01-31 01:44:44.956785"], ["updated_at", "2019-01-31 01:44:44.956785"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (346.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Larisa Brakus"], ["created_at", "2019-01-31 01:44:45.317205"], ["updated_at", "2019-01-31 01:44:45.317205"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (289.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jamal Smitham"], ["created_at", "2019-01-31 01:44:45.619463"], ["updated_at", "2019-01-31 01:44:45.619463"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (297.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Elsa Fisher"], ["created_at", "2019-01-31 01:44:45.926857"], ["updated_at", "2019-01-31 01:44:45.926857"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (291.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Zelda O'Hara"], ["created_at", "2019-01-31 01:44:46.224319"], ["updated_at", "2019-01-31 01:44:46.224319"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (398.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Allen Langosh IV"], ["created_at", "2019-01-31 01:44:46.635655"], ["updated_at", "2019-01-31 01:44:46.635655"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (309.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jimmy Rohan I"], ["created_at", "2019-01-31 01:44:46.954785"], ["updated_at", "2019-01-31 01:44:46.954785"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (268.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tashia Runolfsdottir"], ["created_at", "2019-01-31 01:46:31.643892"], ["updated_at", "2019-01-31 01:46:31.643892"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (240.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Clyde Smith"], ["created_at", "2019-01-31 01:46:31.888097"], ["updated_at", "2019-01-31 01:46:31.888097"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (141.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Leonore Schmidt"], ["created_at", "2019-01-31 01:46:32.034929"], ["updated_at", "2019-01-31 01:46:32.034929"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (331.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Shizuko Kiehn"], ["created_at", "2019-01-31 01:46:32.382915"], ["updated_at", "2019-01-31 01:46:32.382915"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (377.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Donny Bashirian Sr."], ["created_at", "2019-01-31 01:46:32.766184"], ["updated_at", "2019-01-31 01:46:32.766184"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (463.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Raul Schuppe"], ["created_at", "2019-01-31 01:46:33.237936"], ["updated_at", "2019-01-31 01:46:33.237936"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (262.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lynette Herman"], ["created_at", "2019-01-31 01:46:33.513053"], ["updated_at", "2019-01-31 01:46:33.513053"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (361.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Douglas Boehm"], ["created_at", "2019-01-31 01:46:33.877489"], ["updated_at", "2019-01-31 01:46:33.877489"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (500.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Irvin Roberts"], ["created_at", "2019-01-31 01:46:34.381921"], ["updated_at", "2019-01-31 01:46:34.381921"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (326.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Keeley McKenzie"], ["created_at", "2019-01-31 01:46:34.718243"], ["updated_at", "2019-01-31 01:46:34.718243"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (272.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Raelene Volkman"], ["created_at", "2019-01-31 01:47:27.653358"], ["updated_at", "2019-01-31 01:47:27.653358"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (254.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Marine Bins"], ["created_at", "2019-01-31 01:47:27.913695"], ["updated_at", "2019-01-31 01:47:27.913695"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (429.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kirk Beahan"], ["created_at", "2019-01-31 01:47:28.348012"], ["updated_at", "2019-01-31 01:47:28.348012"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (313.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Helga Lakin"], ["created_at", "2019-01-31 01:47:28.670597"], ["updated_at", "2019-01-31 01:47:28.670597"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (307.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ilene Harber"], ["created_at", "2019-01-31 01:47:28.985601"], ["updated_at", "2019-01-31 01:47:28.985601"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (278.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Ozella Predovic"], ["created_at", "2019-01-31 01:47:29.273752"], ["updated_at", "2019-01-31 01:47:29.273752"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (268.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kaleigh Cummerata"], ["created_at", "2019-01-31 01:47:29.547969"], ["updated_at", "2019-01-31 01:47:29.547969"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (291.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lavona Kuvalis"], ["created_at", "2019-01-31 01:47:29.857431"], ["updated_at", "2019-01-31 01:47:29.857431"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (258.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jarred Lemke"], ["created_at", "2019-01-31 01:47:30.129138"], ["updated_at", "2019-01-31 01:47:30.129138"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (467.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Raphael Skiles"], ["created_at", "2019-01-31 01:47:30.605522"], ["updated_at", "2019-01-31 01:47:30.605522"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (380.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Beaulah Wintheiser"], ["created_at", "2019-01-31 01:47:57.594595"], ["updated_at", "2019-01-31 01:47:57.594595"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (191.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Joan Leffler"], ["created_at", "2019-01-31 01:47:57.789285"], ["updated_at", "2019-01-31 01:47:57.789285"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (140.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jamal Hessel"], ["created_at", "2019-01-31 01:47:57.938577"], ["updated_at", "2019-01-31 01:47:57.938577"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (315.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mckinley Koelpin"], ["created_at", "2019-01-31 01:47:58.269047"], ["updated_at", "2019-01-31 01:47:58.269047"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (213.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Leta Powlowski"], ["created_at", "2019-01-31 01:47:58.486787"], ["updated_at", "2019-01-31 01:47:58.486787"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (350.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Chaya Senger"], ["created_at", "2019-01-31 01:47:58.848406"], ["updated_at", "2019-01-31 01:47:58.848406"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (318.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ramon Weimann"], ["created_at", "2019-01-31 01:47:59.173406"], ["updated_at", "2019-01-31 01:47:59.173406"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (288.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.5ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Roderick Abernathy"], ["created_at", "2019-01-31 01:47:59.478562"], ["updated_at", "2019-01-31 01:47:59.478562"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (371.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Shelton Hansen II"], ["created_at", "2019-01-31 01:47:59.858962"], ["updated_at", "2019-01-31 01:47:59.858962"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (335.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Malinda Feeney"], ["created_at", "2019-01-31 01:48:00.203205"], ["updated_at", "2019-01-31 01:48:00.203205"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (331.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Jess Aufderhar"], ["created_at", "2019-01-31 01:50:04.811580"], ["updated_at", "2019-01-31 01:50:04.811580"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (431.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Sherell Steuber"], ["created_at", "2019-01-31 01:50:05.247244"], ["updated_at", "2019-01-31 01:50:05.247244"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (500.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Bertram Nolan"], ["created_at", "2019-01-31 01:50:05.761964"], ["updated_at", "2019-01-31 01:50:05.761964"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (521.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (4.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jame Bosco V"], ["created_at", "2019-01-31 01:50:06.293794"], ["updated_at", "2019-01-31 01:50:06.293794"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (282.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Bernie Dicki I"], ["created_at", "2019-01-31 01:50:06.599719"], ["updated_at", "2019-01-31 01:50:06.599719"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (349.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Trinidad Anderson"], ["created_at", "2019-01-31 01:50:06.963156"], ["updated_at", "2019-01-31 01:50:06.963156"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (284.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Francesco Deckow"], ["created_at", "2019-01-31 01:50:07.254815"], ["updated_at", "2019-01-31 01:50:07.254815"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (426.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kia Grimes"], ["created_at", "2019-01-31 01:50:07.690178"], ["updated_at", "2019-01-31 01:50:07.690178"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (315.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ms. Anjanette Toy"], ["created_at", "2019-01-31 01:50:08.013920"], ["updated_at", "2019-01-31 01:50:08.013920"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (336.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Calvin Koss DDS"], ["created_at", "2019-01-31 01:50:08.359124"], ["updated_at", "2019-01-31 01:50:08.359124"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (574.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Lula Lang PhD"], ["created_at", "2019-01-31 01:50:46.320997"], ["updated_at", "2019-01-31 01:50:46.320997"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (377.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ardelia Lang DVM"], ["created_at", "2019-01-31 01:50:46.702225"], ["updated_at", "2019-01-31 01:50:46.702225"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (384.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (3.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Edda Goldner IV"], ["created_at", "2019-01-31 01:50:47.090863"], ["updated_at", "2019-01-31 01:50:47.090863"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (480.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Liane Blanda III"], ["created_at", "2019-01-31 01:50:47.585454"], ["updated_at", "2019-01-31 01:50:47.585454"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (486.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Robt Gottlieb"], ["created_at", "2019-01-31 01:50:48.084474"], ["updated_at", "2019-01-31 01:50:48.084474"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (331.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Giovanna Adams"], ["created_at", "2019-01-31 01:50:48.427681"], ["updated_at", "2019-01-31 01:50:48.427681"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (379.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Kyla Spinka"], ["created_at", "2019-01-31 01:50:48.818958"], ["updated_at", "2019-01-31 01:50:48.818958"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (568.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (10.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Tyson Orn Jr."], ["created_at", "2019-01-31 01:50:49.396343"], ["updated_at", "2019-01-31 01:50:49.396343"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (255.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Yanira Kozey"], ["created_at", "2019-01-31 01:50:49.674330"], ["updated_at", "2019-01-31 01:50:49.674330"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (407.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Allen Smith"], ["created_at", "2019-01-31 01:50:50.092415"], ["updated_at", "2019-01-31 01:50:50.092415"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (415.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mr. Alex Greenfelder"], ["created_at", "2019-01-31 01:51:18.296736"], ["updated_at", "2019-01-31 01:51:18.296736"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (339.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Mignon McClure"], ["created_at", "2019-01-31 01:51:18.640035"], ["updated_at", "2019-01-31 01:51:18.640035"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (395.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Josiah Adams"], ["created_at", "2019-01-31 01:51:19.039979"], ["updated_at", "2019-01-31 01:51:19.039979"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (308.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Ivy Schuster"], ["created_at", "2019-01-31 01:51:19.359004"], ["updated_at", "2019-01-31 01:51:19.359004"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (363.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Refugio Mohr"], ["created_at", "2019-01-31 01:51:19.729153"], ["updated_at", "2019-01-31 01:51:19.729153"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (316.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Keli Kiehn"], ["created_at", "2019-01-31 01:51:20.055589"], ["updated_at", "2019-01-31 01:51:20.055589"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (387.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (5.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Cortez Huel"], ["created_at", "2019-01-31 01:51:20.450075"], ["updated_at", "2019-01-31 01:51:20.450075"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (363.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rhona Goyette MD"], ["created_at", "2019-01-31 01:51:20.825415"], ["updated_at", "2019-01-31 01:51:20.825415"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (469.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (2.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Dr. Eliseo Deckow"], ["created_at", "2019-01-31 01:51:21.304931"], ["updated_at", "2019-01-31 01:51:21.304931"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (442.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Sherman Stark I"], ["created_at", "2019-01-31 01:51:21.756759"], ["updated_at", "2019-01-31 01:51:21.756759"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (736.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Eleanora Gerlach II"], ["created_at", "2019-01-31 01:55:05.887256"], ["updated_at", "2019-01-31 01:55:05.887256"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (296.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.5ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Ellsworth Gutmann"], ["created_at", "2019-01-31 01:55:06.194105"], ["updated_at", "2019-01-31 01:55:06.194105"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (344.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Donnie Kovacek"], ["created_at", "2019-01-31 01:55:06.545118"], ["updated_at", "2019-01-31 01:55:06.545118"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (324.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.7ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Cherish O'Connell"], ["created_at", "2019-01-31 01:55:06.877352"], ["updated_at", "2019-01-31 01:55:06.877352"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (366.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Jen Pollich IV"], ["created_at", "2019-01-31 01:55:07.252743"], ["updated_at", "2019-01-31 01:55:07.252743"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (373.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.1ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Marcie Hilpert"], ["created_at", "2019-01-31 01:55:07.635113"], ["updated_at", "2019-01-31 01:55:07.635113"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (374.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Maxine Ebert"], ["created_at", "2019-01-31 01:55:08.020768"], ["updated_at", "2019-01-31 01:55:08.020768"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (374.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Johnson Will"], ["created_at", "2019-01-31 01:55:08.402069"], ["updated_at", "2019-01-31 01:55:08.402069"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (368.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Karl O'Reilly"], ["created_at", "2019-01-31 01:55:08.784224"], ["updated_at", "2019-01-31 01:55:08.784224"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (397.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Sina Stark"], ["created_at", "2019-01-31 01:55:09.192991"], ["updated_at", "2019-01-31 01:55:09.192991"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (402.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Asley Bruen"], ["created_at", "2019-01-31 01:56:17.080353"], ["updated_at", "2019-01-31 01:56:17.080353"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (66.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rudolf Swift"], ["created_at", "2019-01-31 01:56:17.151215"], ["updated_at", "2019-01-31 01:56:17.151215"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (87.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Russell Mraz"], ["created_at", "2019-01-31 01:56:17.243899"], ["updated_at", "2019-01-31 01:56:17.243899"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (98.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Fiona Maggio"], ["created_at", "2019-01-31 01:56:17.349180"], ["updated_at", "2019-01-31 01:56:17.349180"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (216.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Otelia Hartmann"], ["created_at", "2019-01-31 01:56:17.571750"], ["updated_at", "2019-01-31 01:56:17.571750"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (100.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Rodrigo Hand PhD"], ["created_at", "2019-01-31 01:56:17.683160"], ["updated_at", "2019-01-31 01:56:17.683160"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (94.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.2ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Angila Will DVM"], ["created_at", "2019-01-31 01:56:17.784525"], ["updated_at", "2019-01-31 01:56:17.784525"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (90.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Levi Luettgen I"], ["created_at", "2019-01-31 01:56:17.882739"], ["updated_at", "2019-01-31 01:56:17.882739"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (104.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Keven Graham"], ["created_at", "2019-01-31 01:56:17.992507"], ["updated_at", "2019-01-31 01:56:17.992507"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (87.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["name", "Miss Renato Murray"], ["created_at", "2019-01-31 01:56:18.090707"], ["updated_at", "2019-01-31 01:56:18.090707"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (98.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
