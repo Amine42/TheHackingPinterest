@@ -13,21 +13,21 @@
 ActiveRecord::Schema.define(version: 2019_01_30_225124) do
 
   create_table "comments", force: :cascade do |t|
-    t.integer "pins_id"
-    t.string "text"
-    t.integer "users_id"
+    t.integer "pin_id"
+    t.text "text"
+    t.integer "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["pins_id"], name: "index_comments_on_pins_id"
-    t.index ["users_id"], name: "index_comments_on_users_id"
+    t.index ["pin_id"], name: "index_comments_on_pin_id"
+    t.index ["user_id"], name: "index_comments_on_user_id"
   end
 
   create_table "pins", force: :cascade do |t|
-    t.integer "users_id"
+    t.integer "user_id"
     t.string "url_image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["users_id"], name: "index_pins_on_users_id"
+    t.index ["user_id"], name: "index_pins_on_user_id"
   end
 
   create_table "users", force: :cascade do |t|
